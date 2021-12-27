@@ -12,7 +12,7 @@ import 'package:color_print/color_print.dart';
 logInfo("Welcome");// Blue print
 logSuccess("Good job");// Green print
 logWarning("Be careful");// Yellow print
-logError("An error occurred");// Red print
+logError("An error occurred","MainScreen");// Red print and the location of the print
 
 ```
 
