@@ -19,3 +19,4 @@ logError("An error occurred","MainScreen");// Red print and the location of the 
 ## Additional information
 
 Please suggest an idea to improve the package
+https://pub.dev/packages/color_print
