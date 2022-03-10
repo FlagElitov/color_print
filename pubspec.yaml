@@ -1,6 +1,6 @@
 name: color_print
 description: This package will allow you to focus on important prints in the terminal
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/FlagElitov/color_print
 
 environment:
